@@ -14,4 +14,6 @@
 ## Modeling
 - **Polynomial Regression was employed for model training, and the performance evaluation relied on the R2 score.**
 
+## Kaggle Notebook
+- **You can find the Kaggle notebook associated with this project [🐟 Fish Market EDA | Modeling ](https://www.kaggle.com/code/samerhendawy/fish-market-eda-modeling-97-0).**
 
