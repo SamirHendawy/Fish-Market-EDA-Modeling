@@ -1,8 +1,8 @@
 # Fish-Market-EDA-Modeling
 **🐟 Fish Market EDA | Modeling 97.0%**
-<h>
+--------
 <img src="fish.jpg">
-<h>
+------
 
 # Overview
 - **Polynomial Regression Task.**
